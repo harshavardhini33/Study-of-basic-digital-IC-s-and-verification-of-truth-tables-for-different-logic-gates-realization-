@@ -88,7 +88,8 @@ endmodule
 
 
 ## RTL realization :
-![go](./Screenshot%20(272).png)
+![Screenshot (272)](https://user-images.githubusercontent.com/93427208/162178213-28557710-944a-4d77-9782-c3dc8bd8fd79.png)
+
 
 ## Output:
 ![RTL](sam.png)
