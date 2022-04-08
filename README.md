@@ -86,7 +86,8 @@ endmodule
 ```
 ## OUTPUT :
 ## Logic symbol & Truthtable :
-![Screenshot (140) (1)](https://user-images.githubusercontent.com/93427208/162353162-6c65137f-5ba5-4f76-af6f-052cbf819ad8.png)
+![Document docx - Microsoft Word Online - Google Chrome 4_7_2022 9_58_05 PM](https://user-images.githubusercontent.com/93427208/162353625-ca6d1d90-6357-44bb-b769-793f825451af.jpg)
+
 
 
 ## RTL realization :
