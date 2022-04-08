@@ -85,6 +85,7 @@ nor (y7,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable :
+![Screenshot (140) (1)](https://user-images.githubusercontent.com/93427208/162353162-6c65137f-5ba5-4f76-af6f-052cbf819ad8.png)
 
 
 ## RTL realization :
@@ -92,7 +93,8 @@ endmodule
 
 
 ## Output:
-![RTL](sam.png)
+![Screenshot (140) (1)](https://user-images.githubusercontent.com/93427208/162353177-1eace5c9-0043-4bff-a31e-4ddd35fa8965.png)
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
