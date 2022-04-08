@@ -84,6 +84,7 @@ nand (y6,a,b);
 nor (y7,a,b);
 endmodule
 ```
+## OUTPUT :
 ## Logic symbol & Truthtable :
 ![Screenshot (140) (1)](https://user-images.githubusercontent.com/93427208/162353162-6c65137f-5ba5-4f76-af6f-052cbf819ad8.png)
 
@@ -92,8 +93,6 @@ endmodule
 ![Screenshot (272)](https://user-images.githubusercontent.com/93427208/162178213-28557710-944a-4d77-9782-c3dc8bd8fd79.png)
 
 
-## Output:
-![Screenshot (140) (1)](https://user-images.githubusercontent.com/93427208/162353177-1eace5c9-0043-4bff-a31e-4ddd35fa8965.png)
 
 
 ## Result:
